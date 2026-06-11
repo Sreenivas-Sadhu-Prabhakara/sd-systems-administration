@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-systems-administration
+description: "BIAN Service Domain: Systems Administration (Administer pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Technology and Operations"
+  bian/asset-type: "System Configuration"
+  bian/control-record: "System Configuration Administrative Plan"
